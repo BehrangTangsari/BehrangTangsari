@@ -26,13 +26,13 @@
   👉 https://github.com/BehrangTangsari?tab=repositories  
 
 - 📫 Email  
-  **behrangTangsari@yahoo.com**
+  **BehrangTangsari@Yahoo.Com**
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/behrang_t5" target="_blank">
+  <a href="https://instagram.com/Behrang_t5" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       height="35"
