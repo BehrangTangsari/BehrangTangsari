@@ -1,13 +1,13 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Behrang+Tangsari;Front+End+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Behrang+Tangsari;Front+End+Developer"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=F7DF1E&center=true&vCenter=true&width=800&lines=HTML+5+%7C+CSS+3+%7C+JavaScript;React+%7C+Redux+%7C+TypeScript;Vue+JS+%7C+Tailwind+CSS+%7C+Bootstrap"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=F7DF1E&center=true&vCenter=true&width=850&lines=HTML+5+%7C+CSS+3+%7C+JavaScript;React+%7C+Redux+%7C+TypeScript;Vue+JS+%7C+Tailwind+CSS+%7C+Bootstrap"
     alt="Skills Typing"
   />
 </p>
@@ -15,7 +15,7 @@
 ---
 
 - 👨‍💻 All of my projects are available at  
-  👉 https://github.com/BehrangTangsari?tab=repositories
+  https://github.com/BehrangTangsari?tab=repositories
 
 - 📫 How to reach me  
   **behrangTangsari@yahoo.com**
